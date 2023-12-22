@@ -1,4 +1,4 @@
-# SECRET WORD
+# Secret_Word
 
 secret_Word = ('Y', 'E', 'L', 'L', 'O', 'W')
 discovered_letters = []
