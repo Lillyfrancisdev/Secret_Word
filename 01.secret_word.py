@@ -1,6 +1,6 @@
 # Secret_Word
 
-secret_Word = ('Y', 'E', 'L', 'L', 'O', 'W')
+secret_Word = ('B', 'E', 'A', 'U', 'T', 'I','F','U','L') 
 discovered_letters = []
 
 print ( '\n *** SECRET WORD *** \n' )
